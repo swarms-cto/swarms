@@ -45,6 +45,21 @@
   </a>
 </p>
 
+## 🌐 Swarms-CTO (Community Edition)
+
+This is the **community-driven continuation** of the original Swarms project — a fork maintained under a **CTO (Community Takeover)** effort to keep the vision alive, open, and evolving.
+
+Our goal is simple:
+**build an open ecosystem where agents can collaborate, transact, and operate autonomously across the internet.**
+
+The Community Edition will introduce **AEP — Agent Economy Protocol**, a new economic layer powered by [SSI Agents Launchpad](https://ssi.fun) and **x402** to enable **seamless, trustless money flow between agents** across the Swarms ecosystem and empower $swarms.
+From payments to task execution to agent-to-agent services, AEP aims to unlock real economic activity for on-chain agents.
+
+We welcome contributions from anyone who wants to push the agent economy forward — developers, researchers, builders, or curious explorers.
+
+**PRs, issues, experiments — all are welcome.
+Let’s build the next generation of autonomous agent infrastructure together.**
+
 ## ✨ Features
 
 Swarms delivers a comprehensive, enterprise-grade multi-agent infrastructure platform designed for production-scale deployments and seamless integration with existing systems. [Learn more about the swarms feature set here](https://docs.swarms.world/en/latest/swarms/features/)
